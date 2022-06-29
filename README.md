@@ -1,2 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=18&duration=3000&color=0A0283&center=verdadeiro&vCenter=verdadeiro&multiline=true&lines=Ol%C3%A1+meu+nome+%C3%A9+Vincius+Oruam;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=vini1809&color=0a0283)
+![Badge Challenge 1](https://user-images.githubusercontent.com/82980056/176539519-f1052a89-f458-439d-8fc9-7575b0de8ead.png)
+![Badge Challenge 2](https://user-images.githubusercontent.com/82980056/176539533-8bbaaa49-e025-45b7-a470-d556aa4e8c88.png)
+![Badge Challenge 3](https://user-images.githubusercontent.com/82980056/176539544-0fa03326-3529-408d-be5b-02e8e4e4f74b.png)
+![Badge Challenge 4](https://user-images.githubusercontent.com/82980056/176539553-eb22f607-a0fb-46f2-9f04-8b19a1b64710.png)
+![cms_files_10224_1655464335Badge_First_Alura_ChallengeOracleONE_2000x2000_V3](https://user-images.githubusercontent.com/82980056/176539600-2ef5f67a-b19b-4a21-9016-cd8ec4c76de7.png)
