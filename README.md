@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bangers&size=18&duration=3000&color=0A0283&center=verdadeiro&vCenter=verdadeiro&multiline=true&lines=Ol%C3%A1+meu+nome+%C3%A9+Vincius+Oruam;Estudante+de+Ci%C3%AAncias+da+Computa%C3%A7%C3%A3o)](https://git.io/typing-svg)
 ![](https://komarev.com/ghpvc/?username=vini1809&color=0a0283)
 
+--Badges conquistadas no programa Oracle Next One - Alura--
 ![Badge Challenge 1](https://user-images.githubusercontent.com/82980056/176539945-4c11294f-8890-406f-b6d5-ae365e10f179.png)![Badge Challenge 2](https://user-images.githubusercontent.com/82980056/176540304-9a7c73a9-c93d-4ff4-a4dd-da856b6ef666.png)![Badge Challenge 3](https://user-images.githubusercontent.com/82980056/176540573-ef4847ed-8f18-403e-a4a3-12854488de48.png)![Badge Challenge 4](https://user-images.githubusercontent.com/82980056/176540847-46dd37d0-3dc5-413d-8054-319d311a42fc.png)![cms_files_10224_1655464335Badge_First_Alura_ChallengeOracleONE_2000x2000_V3](https://user-images.githubusercontent.com/82980056/176541021-8e608b7f-9307-4d8b-9ffd-6d403a4c7c49.png)
